@@ -1,0 +1,5 @@
+source /opt/ros/noetic/setup.bash
+. ~/catkin_ws/devel/setup.bash
+pardus@pardus:~$ uname -a
+Linux pardus 4.19.0-12-rt-amd64 #1 SMP PREEMPT RT Debian 4.19.152-1 (2020-10-18) x86_64 GNU/Linux
+pardus@pardus:~$ 
